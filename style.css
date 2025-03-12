@@ -10,4 +10,9 @@
     }
     header{
         display: flex;
+        
+    }
+    #tividade {
+        display: flex;
+        
     }
