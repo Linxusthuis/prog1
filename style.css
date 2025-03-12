@@ -1,0 +1,13 @@
+:root{
+    --fonte: #EAEAEA;
+    --fundo: #252A34;
+    --fonte_mat: #FF2E63;
+    --fonte_mat2: #08D9D6;
+
+}
+    body{
+        background-color: var(--fundo);
+    }
+    header{
+        
+    }
