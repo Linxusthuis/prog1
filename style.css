@@ -15,6 +15,7 @@
     }
     #tividade {
         display: flex;
+        gap: 5px;
 
     }
     a{
@@ -23,4 +24,5 @@
     }
     #shit{
         visibility: collapse;
+        
     }
