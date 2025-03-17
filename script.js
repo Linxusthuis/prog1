@@ -1,4 +1,4 @@
 function menuabrir(params) {
     var dropdown = document.getElementById('shit');
-    dropdown.style.display === 'none'
+    dropdown.style.display === 'none';
 }
