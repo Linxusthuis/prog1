@@ -15,8 +15,8 @@
     }
     #tividade {
         display: flex;
-        gap: 5em;
-
+        gap: 3em;
+        justify-content: space-between;
     }
     a{
         color: var(--fonte);
