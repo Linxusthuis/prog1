@@ -21,3 +21,6 @@
         color: var(--fonte);
         text-decoration: none;
     }
+    #shit{
+        visibility: collapse;
+    }

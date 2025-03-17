@@ -1,5 +1,13 @@
+var dropdown = document.getElementById('shit');
 function menuabrir() {
-    var dropdown = document.getElementById('shit');
-    dropdown.style.display === 'none';
-    console.log(dropdown.style.display)
+    
+   if (dropdown.style.visibility !='visible'){
+        dropdown.style.visibility = 'visible';
+
+   }
+   else {
+    dropdown.style.visibility = 'collapse';
+     console.log(dropdown.style.display);
 }
+   }
+   
