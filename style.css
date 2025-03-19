@@ -29,9 +29,11 @@
         list-style: none;
         font-size: 1.2em;
         position: absolute;
+        padding: 0.2em;
     }
     #shit a:hover{
         background-color: var(--fonte_mat2);
+
     }
     div.lista_lista{
         justify-content: center;
