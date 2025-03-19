@@ -33,7 +33,7 @@
     }
     #shit a:hover{
         background-color: var(--fonte_mat2);
-
+        color: var(--fundo);
     }
     div.lista_lista{
         justify-content: center;
