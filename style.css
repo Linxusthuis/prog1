@@ -26,10 +26,18 @@
     }
     #shit{
         visibility: collapse;
-        
+        list-style: none;
+        font-size: 1.2em;
+        position: absolute;
+    }
+    #shit + a:hover{
+        background-color: var(--fonte_mat2);
     }
     div.lista_lista{
         justify-content: center;
         display: inherit;
         padding: 1em;
+        list-style: none;
+        font-size: 1.5em;
     }
+    
