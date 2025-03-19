@@ -30,7 +30,7 @@
         font-size: 1.2em;
         position: absolute;
     }
-    #shit, a:hover{
+    #shit a:hover{
         background-color: var(--fonte_mat2);
     }
     div.lista_lista{
