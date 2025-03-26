@@ -6,10 +6,10 @@ function menuabrir() {
         dropdown.style.visibility = 'visible';
 
    }
-//    senão colapsar
+     //senão colapsar
    else {
     dropdown.style.visibility = 'collapse';
    
-}
    }
+}
    
