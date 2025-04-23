@@ -49,7 +49,7 @@
         flex-direction: column;
         align-items: center;
         /* justify-content: center; */
-        max-width: 90%;
+        /* max-width: 90%; */
     }
     .port section div.Atividades {
        background-color: var(--fundo);
